@@ -6,7 +6,7 @@ int main(){
     cout << "Digite um numero para ver a tabuada: ";
     cin >> num;
 
-    for(int i = 0; i <= 12; ++i){
+    for(int i = 0; i <= 12; ++i){ggg
         cout << num << " * " << i << " = " << num * i<<endl;
     }
 
